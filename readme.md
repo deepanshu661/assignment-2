@@ -1,1 +1,1 @@
-The first checks if a number is even or odd using the modulo operator and if-else statements. The second calculates the sum of numbers from 1 to 50 using a loop and an accumulator variable. Both programs help beginners learn inputs, loops, and conditions.
+
